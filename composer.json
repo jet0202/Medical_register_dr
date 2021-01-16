@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "setasign/fpdf": "1.8.1",
+    "nette/mail": "2.4.6",
+    "pear/net_smtp": ">=1.8.1",
+    "koolphp/koolreport": ">=3.25.4",
+    "phpmailer/phpmailer": ">=6.1.1",
+    "sendgrid/sendgrid": ">=7.3.0"
+        
+  }
+}
